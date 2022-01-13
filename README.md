@@ -1,1 +1,1 @@
-# Mole-Mash
+# Mole-Mash This is the assignment I created for Web151. The assignment was rather simple with very easy to understand instructions. I could see myself actually getting distracted by this and trying to reach a personal best with no messups many times.
